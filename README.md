@@ -30,4 +30,4 @@ Typically, a product and service-based business always need their Data Scientist
 - matplotlib
 - seaborn
 
-### IDE - Jupyter Notebook
+### IDE -Colab Notebook
